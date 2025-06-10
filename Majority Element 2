@@ -1,0 +1,45 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> majorityElement(int[] nums) {
+        int n = nums.length;
+        List<Integer> res = new ArrayList<>();
+        int res1 = 0, res2 = 0;
+        int maj1 = 0, maj2 = 0;
+        
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == res1) {
+                maj1++;
+            } else if (nums[i] == res2) {  
+                maj2++;
+            } else if (maj1 == 0) {
+                res1 = nums[i];
+                maj1 = 1;
+            } else if (maj2 == 0) {
+                res2 = nums[i];
+                maj2 = 1;
+            } else {
+                maj1--;
+                maj2--;
+            }
+        }
+        
+        int count1 = 0, count2 = 0;
+        for (int num : nums) {
+            if (num == res1) {
+                count1++;
+            } else if (num == res2) {
+                count2++;
+            }
+        }
+        
+        if (count1 > n / 3) {
+            res.add(res1);  
+        }
+        if (count2 > n / 3) {
+            res.add(res2);  
+        }
+        
+        return res;
+    }
+}
