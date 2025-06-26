@@ -1,0 +1,25 @@
+class Solution {
+    public int[] findPeakGrid(int[][] mat) {
+        int m = mat.length;
+        int n = mat[0].length;
+        
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                int ele = mat[i][j];
+                boolean peak = true;
+                
+                if (i > 0 && mat[i - 1][j] > ele) peak = false;
+                if (i < m - 1 && mat[i + 1][j] > ele) peak = false;
+                if (j > 0 && mat[i][j - 1] > ele) peak = false;
+                if (j < n - 1 && mat[i][j + 1] > ele) peak = false;
+                
+                if (peak) {
+                    return new int[]{i, j};
+                }
+            }
+        }
+        
+        return new int[]{-1, -1}; 
+    }
+}
+
