@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Solution {
-    public void power(int index, int[] nums, List<Integer> cur, List<List<Integer>> ans) {
+    public void power(int index,int[] nums, List<Integer> cur, List<List<Integer>> ans) {
         if (index == nums.length) {
             ans.add(new ArrayList<>(cur));
             return;
