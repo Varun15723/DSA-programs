@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Varun15723/DSA-programs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Varun15723/DSA-programs/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/Varun15723/DSA-programs/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
