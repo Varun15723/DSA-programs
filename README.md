@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Varun15723/DSA-programs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Varun15723/DSA-programs/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Varun15723/DSA-programs/tree/master/0216-combination-sum-iii) |
+| [0377-combination-sum-iv](https://github.com/Varun15723/DSA-programs/tree/master/0377-combination-sum-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Varun15723/DSA-programs/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0377-combination-sum-iv](https://github.com/Varun15723/DSA-programs/tree/master/0377-combination-sum-iv) |
 <!---LeetCode Topics End-->
