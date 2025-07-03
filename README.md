@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Varun15723/DSA-programs/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Varun15723/DSA-programs/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Varun15723/DSA-programs/tree/master/0377-combination-sum-iv) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Varun15723/DSA-programs/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Backtracking
 |  |
 | ------- |
