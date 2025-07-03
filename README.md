@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Varun15723/DSA-programs/tree/master/0050-powx-n) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Varun15723/DSA-programs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Varun15723/DSA-programs/tree/master/0050-powx-n) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Varun15723/DSA-programs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Varun15723/DSA-programs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Varun15723/DSA-programs/tree/master/0090-subsets-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Varun15723/DSA-programs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/Varun15723/DSA-programs/tree/master/0377-combination-sum-iv) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Varun15723/DSA-programs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
