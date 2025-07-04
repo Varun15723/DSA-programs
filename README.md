@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Varun15723/DSA-programs/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Varun15723/DSA-programs/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Varun15723/DSA-programs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Varun15723/DSA-programs/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Varun15723/DSA-programs/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Varun15723/DSA-programs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Varun15723/DSA-programs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Varun15723/DSA-programs/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
