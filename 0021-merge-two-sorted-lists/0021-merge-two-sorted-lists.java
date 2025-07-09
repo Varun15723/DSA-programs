@@ -8,29 +8,27 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import java.util.*;
 
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        ListNode temp1 = list1;
-        ListNode temp2 = list2;
-
-        while (temp1 != null) {
-            ans.add(temp1.val);
-            temp1 = temp1.next;
+        ListNode dum=new ListNode(-1);
+        ListNode temp=dum;
+        while(list1!=null&& list2!=null){
+            if(list1.val<=list2.val){
+                temp.next=list1;
+                list1=list1.next;
+            }
+            else{
+                temp.next=list2;
+                list2=list2.next;
+            }
+            temp=temp.next;
         }
-        while (temp2 != null) {
-            ans.add(temp2.val);
-            temp2 = temp2.next;
+        if(list1!=null){
+            temp.next=list1;
         }
-        Collections.sort(ans);
-
-        ListNode dum = new ListNode(-1);
-        ListNode temp = dum;
-        for (int i = 0; i < ans.size(); i++) {
-            temp.next = new ListNode(ans.get(i));
-            temp = temp.next;
+        else{
+            temp.next=list2;
         }
         return dum.next;
     }
