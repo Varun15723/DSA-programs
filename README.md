@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Varun15723/DSA-programs/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Varun15723/DSA-programs/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Varun15723/DSA-programs/tree/master/0377-combination-sum-iv) |
+| [0496-next-greater-element-i](https://github.com/Varun15723/DSA-programs/tree/master/0496-next-greater-element-i) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Varun15723/DSA-programs/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Backtracking
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Varun15723/DSA-programs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Varun15723/DSA-programs/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varun15723/DSA-programs/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Varun15723/DSA-programs/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Varun15723/DSA-programs/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Varun15723/DSA-programs/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Varun15723/DSA-programs/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Varun15723/DSA-programs/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
