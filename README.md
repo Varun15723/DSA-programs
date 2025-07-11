@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Varun15723/DSA-programs/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Varun15723/DSA-programs/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/Varun15723/DSA-programs/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Varun15723/DSA-programs/tree/master/0503-next-greater-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Varun15723/DSA-programs/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Backtracking
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Varun15723/DSA-programs/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Varun15723/DSA-programs/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Varun15723/DSA-programs/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Varun15723/DSA-programs/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Varun15723/DSA-programs/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
